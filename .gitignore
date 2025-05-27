@@ -1,5 +1,5 @@
 # compiled output
-/dist
+/app
 /node_modules
 
 /Docker/.env
